@@ -7,22 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F43095FE1E0AD62200640A9C /* BeefBroccoliGarlic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F01E0AD62200640A9C /* BeefBroccoliGarlic.mp3 */; };
+		F43095FF1E0AD62200640A9C /* DogFart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F11E0AD62200640A9C /* DogFart.mp3 */; };
+		F43096001E0AD62200640A9C /* DrinkSomeWater.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F21E0AD62200640A9C /* DrinkSomeWater.mp3 */; };
+		F43096011E0AD62200640A9C /* Faz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F31E0AD62200640A9C /* Faz.mp3 */; };
+		F43096021E0AD62200640A9C /* Fizz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F41E0AD62200640A9C /* Fizz.mp3 */; };
+		F43096031E0AD62200640A9C /* FizzFaz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F51E0AD62200640A9C /* FizzFaz.mp3 */; };
+		F43096041E0AD62200640A9C /* IloveIndian.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F61E0AD62200640A9C /* IloveIndian.mp3 */; };
+		F43096051E0AD62200640A9C /* Onethatgoeswhoosh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F71E0AD62200640A9C /* Onethatgoeswhoosh.mp3 */; };
+		F43096061E0AD62200640A9C /* OohWow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F81E0AD62200640A9C /* OohWow.mp3 */; };
+		F43096071E0AD62200640A9C /* Ripshit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095F91E0AD62200640A9C /* Ripshit.mp3 */; };
+		F43096081E0AD62200640A9C /* ShakeItOff.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095FA1E0AD62200640A9C /* ShakeItOff.mp3 */; };
+		F43096091E0AD62200640A9C /* Snorter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095FB1E0AD62200640A9C /* Snorter.mp3 */; };
+		F430960A1E0AD62200640A9C /* Tearass.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095FC1E0AD62200640A9C /* Tearass.mp3 */; };
+		F430960B1E0AD62200640A9C /* TheFight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095FD1E0AD62200640A9C /* TheFight.mp3 */; };
 		F447FEB41E044C7F009AF574 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F447FEB31E044C7F009AF574 /* AppDelegate.swift */; };
-		F447FEB61E044C7F009AF574 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F447FEB51E044C7F009AF574 /* ViewController.swift */; };
+		F447FEB61E044C7F009AF574 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F447FEB51E044C7F009AF574 /* MainVC.swift */; };
 		F447FEB91E044C7F009AF574 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F447FEB71E044C7F009AF574 /* Main.storyboard */; };
 		F447FEBE1E044C7F009AF574 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F447FEBC1E044C7F009AF574 /* LaunchScreen.storyboard */; };
-		F447FEC71E045524009AF574 /* RoundedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F447FEC61E045524009AF574 /* RoundedView.swift */; };
 		F4C42E861E045BB800957452 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4C42E851E045BB800957452 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F43095F01E0AD62200640A9C /* BeefBroccoliGarlic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = BeefBroccoliGarlic.mp3; sourceTree = "<group>"; };
+		F43095F11E0AD62200640A9C /* DogFart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DogFart.mp3; sourceTree = "<group>"; };
+		F43095F21E0AD62200640A9C /* DrinkSomeWater.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DrinkSomeWater.mp3; sourceTree = "<group>"; };
+		F43095F31E0AD62200640A9C /* Faz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Faz.mp3; sourceTree = "<group>"; };
+		F43095F41E0AD62200640A9C /* Fizz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fizz.mp3; sourceTree = "<group>"; };
+		F43095F51E0AD62200640A9C /* FizzFaz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = FizzFaz.mp3; sourceTree = "<group>"; };
+		F43095F61E0AD62200640A9C /* IloveIndian.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = IloveIndian.mp3; sourceTree = "<group>"; };
+		F43095F71E0AD62200640A9C /* Onethatgoeswhoosh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Onethatgoeswhoosh.mp3; sourceTree = "<group>"; };
+		F43095F81E0AD62200640A9C /* OohWow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = OohWow.mp3; sourceTree = "<group>"; };
+		F43095F91E0AD62200640A9C /* Ripshit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Ripshit.mp3; sourceTree = "<group>"; };
+		F43095FA1E0AD62200640A9C /* ShakeItOff.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ShakeItOff.mp3; sourceTree = "<group>"; };
+		F43095FB1E0AD62200640A9C /* Snorter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Snorter.mp3; sourceTree = "<group>"; };
+		F43095FC1E0AD62200640A9C /* Tearass.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tearass.mp3; sourceTree = "<group>"; };
+		F43095FD1E0AD62200640A9C /* TheFight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TheFight.mp3; sourceTree = "<group>"; };
 		F447FEB01E044C7F009AF574 /* DadsPresent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DadsPresent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F447FEB31E044C7F009AF574 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F447FEB51E044C7F009AF574 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F447FEB51E044C7F009AF574 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		F447FEB81E044C7F009AF574 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F447FEBD1E044C7F009AF574 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F447FEBF1E044C7F009AF574 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F447FEC61E045524009AF574 /* RoundedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedView.swift; sourceTree = "<group>"; };
 		F4C42E851E045BB800957452 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -37,6 +63,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F430960C1E0AD67A00640A9C /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				F43095F01E0AD62200640A9C /* BeefBroccoliGarlic.mp3 */,
+				F43095F11E0AD62200640A9C /* DogFart.mp3 */,
+				F43095F21E0AD62200640A9C /* DrinkSomeWater.mp3 */,
+				F43095F31E0AD62200640A9C /* Faz.mp3 */,
+				F43095F41E0AD62200640A9C /* Fizz.mp3 */,
+				F43095F51E0AD62200640A9C /* FizzFaz.mp3 */,
+				F43095F61E0AD62200640A9C /* IloveIndian.mp3 */,
+				F43095F71E0AD62200640A9C /* Onethatgoeswhoosh.mp3 */,
+				F43095F81E0AD62200640A9C /* OohWow.mp3 */,
+				F43095F91E0AD62200640A9C /* Ripshit.mp3 */,
+				F43095FA1E0AD62200640A9C /* ShakeItOff.mp3 */,
+				F43095FB1E0AD62200640A9C /* Snorter.mp3 */,
+				F43095FC1E0AD62200640A9C /* Tearass.mp3 */,
+				F43095FD1E0AD62200640A9C /* TheFight.mp3 */,
+			);
+			name = Audio;
+			sourceTree = "<group>";
+		};
 		F447FEA71E044C7F009AF574 = {
 			isa = PBXGroup;
 			children = (
@@ -56,23 +103,15 @@
 		F447FEB21E044C7F009AF574 /* DadsPresent */ = {
 			isa = PBXGroup;
 			children = (
-				F447FEC51E0454FD009AF574 /* View */,
+				F430960C1E0AD67A00640A9C /* Audio */,
 				F447FEB31E044C7F009AF574 /* AppDelegate.swift */,
-				F447FEB51E044C7F009AF574 /* ViewController.swift */,
+				F447FEB51E044C7F009AF574 /* MainVC.swift */,
 				F447FEB71E044C7F009AF574 /* Main.storyboard */,
 				F4C42E851E045BB800957452 /* Assets.xcassets */,
 				F447FEBC1E044C7F009AF574 /* LaunchScreen.storyboard */,
 				F447FEBF1E044C7F009AF574 /* Info.plist */,
 			);
 			path = DadsPresent;
-			sourceTree = "<group>";
-		};
-		F447FEC51E0454FD009AF574 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				F447FEC61E045524009AF574 /* RoundedView.swift */,
-			);
-			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,9 +173,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F43096081E0AD62200640A9C /* ShakeItOff.mp3 in Resources */,
 				F447FEBE1E044C7F009AF574 /* LaunchScreen.storyboard in Resources */,
+				F43096091E0AD62200640A9C /* Snorter.mp3 in Resources */,
+				F43096021E0AD62200640A9C /* Fizz.mp3 in Resources */,
+				F43096031E0AD62200640A9C /* FizzFaz.mp3 in Resources */,
+				F430960B1E0AD62200640A9C /* TheFight.mp3 in Resources */,
+				F43096041E0AD62200640A9C /* IloveIndian.mp3 in Resources */,
+				F43096001E0AD62200640A9C /* DrinkSomeWater.mp3 in Resources */,
+				F43096011E0AD62200640A9C /* Faz.mp3 in Resources */,
+				F43095FE1E0AD62200640A9C /* BeefBroccoliGarlic.mp3 in Resources */,
+				F43096071E0AD62200640A9C /* Ripshit.mp3 in Resources */,
+				F43096051E0AD62200640A9C /* Onethatgoeswhoosh.mp3 in Resources */,
 				F4C42E861E045BB800957452 /* Assets.xcassets in Resources */,
+				F430960A1E0AD62200640A9C /* Tearass.mp3 in Resources */,
 				F447FEB91E044C7F009AF574 /* Main.storyboard in Resources */,
+				F43095FF1E0AD62200640A9C /* DogFart.mp3 in Resources */,
+				F43096061E0AD62200640A9C /* OohWow.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,9 +200,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F447FEB61E044C7F009AF574 /* ViewController.swift in Sources */,
+				F447FEB61E044C7F009AF574 /* MainVC.swift in Sources */,
 				F447FEB41E044C7F009AF574 /* AppDelegate.swift in Sources */,
-				F447FEC71E045524009AF574 /* RoundedView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
