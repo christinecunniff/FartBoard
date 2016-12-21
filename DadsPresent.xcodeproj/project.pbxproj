@@ -21,11 +21,11 @@
 		F43096091E0AD62200640A9C /* Snorter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095FB1E0AD62200640A9C /* Snorter.mp3 */; };
 		F430960A1E0AD62200640A9C /* Tearass.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095FC1E0AD62200640A9C /* Tearass.mp3 */; };
 		F430960B1E0AD62200640A9C /* TheFight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43095FD1E0AD62200640A9C /* TheFight.mp3 */; };
+		F430960F1E0AFF1500640A9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F430960E1E0AFF1500640A9C /* Assets.xcassets */; };
 		F447FEB41E044C7F009AF574 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F447FEB31E044C7F009AF574 /* AppDelegate.swift */; };
 		F447FEB61E044C7F009AF574 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F447FEB51E044C7F009AF574 /* MainVC.swift */; };
 		F447FEB91E044C7F009AF574 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F447FEB71E044C7F009AF574 /* Main.storyboard */; };
 		F447FEBE1E044C7F009AF574 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F447FEBC1E044C7F009AF574 /* LaunchScreen.storyboard */; };
-		F4C42E861E045BB800957452 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4C42E851E045BB800957452 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,13 +43,13 @@
 		F43095FB1E0AD62200640A9C /* Snorter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Snorter.mp3; sourceTree = "<group>"; };
 		F43095FC1E0AD62200640A9C /* Tearass.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tearass.mp3; sourceTree = "<group>"; };
 		F43095FD1E0AD62200640A9C /* TheFight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TheFight.mp3; sourceTree = "<group>"; };
+		F430960E1E0AFF1500640A9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F447FEB01E044C7F009AF574 /* DadsPresent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DadsPresent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F447FEB31E044C7F009AF574 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F447FEB51E044C7F009AF574 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		F447FEB81E044C7F009AF574 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F447FEBD1E044C7F009AF574 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F447FEBF1E044C7F009AF574 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F4C42E851E045BB800957452 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,11 +103,11 @@
 		F447FEB21E044C7F009AF574 /* DadsPresent */ = {
 			isa = PBXGroup;
 			children = (
-				F430960C1E0AD67A00640A9C /* Audio */,
 				F447FEB31E044C7F009AF574 /* AppDelegate.swift */,
 				F447FEB51E044C7F009AF574 /* MainVC.swift */,
+				F430960C1E0AD67A00640A9C /* Audio */,
 				F447FEB71E044C7F009AF574 /* Main.storyboard */,
-				F4C42E851E045BB800957452 /* Assets.xcassets */,
+				F430960E1E0AFF1500640A9C /* Assets.xcassets */,
 				F447FEBC1E044C7F009AF574 /* LaunchScreen.storyboard */,
 				F447FEBF1E044C7F009AF574 /* Info.plist */,
 			);
@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					F447FEAF1E044C7F009AF574 = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = CFZ5ELBZA6;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -179,13 +180,13 @@
 				F43096021E0AD62200640A9C /* Fizz.mp3 in Resources */,
 				F43096031E0AD62200640A9C /* FizzFaz.mp3 in Resources */,
 				F430960B1E0AD62200640A9C /* TheFight.mp3 in Resources */,
+				F430960F1E0AFF1500640A9C /* Assets.xcassets in Resources */,
 				F43096041E0AD62200640A9C /* IloveIndian.mp3 in Resources */,
 				F43096001E0AD62200640A9C /* DrinkSomeWater.mp3 in Resources */,
 				F43096011E0AD62200640A9C /* Faz.mp3 in Resources */,
 				F43095FE1E0AD62200640A9C /* BeefBroccoliGarlic.mp3 in Resources */,
 				F43096071E0AD62200640A9C /* Ripshit.mp3 in Resources */,
 				F43096051E0AD62200640A9C /* Onethatgoeswhoosh.mp3 in Resources */,
-				F4C42E861E045BB800957452 /* Assets.xcassets in Resources */,
 				F430960A1E0AD62200640A9C /* Tearass.mp3 in Resources */,
 				F447FEB91E044C7F009AF574 /* Main.storyboard in Resources */,
 				F43095FF1E0AD62200640A9C /* DogFart.mp3 in Resources */,
@@ -322,6 +323,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CFZ5ELBZA6;
 				INFOPLIST_FILE = DadsPresent/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.christinecunniff.DadsPresent;
@@ -334,6 +336,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CFZ5ELBZA6;
 				INFOPLIST_FILE = DadsPresent/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.christinecunniff.DadsPresent;
