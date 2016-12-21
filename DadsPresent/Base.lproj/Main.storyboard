@@ -31,10 +31,16 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oSa-Ym-kFC">
                                                 <rect key="frame" x="0.0" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="beefbroccoligarlic"/>
+                                                <connections>
+                                                    <action selector="bbgPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ByG-7m-GSU"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x69-30-j9S">
                                                 <rect key="frame" x="161.5" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="dogFart"/>
+                                                <connections>
+                                                    <action selector="dogPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Tgq-Uq-AZF"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -44,10 +50,16 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hdx-Qm-bVb">
                                                 <rect key="frame" x="0.0" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="Iloveindian"/>
+                                                <connections>
+                                                    <action selector="curryPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="now-EY-zSb"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dui-24-3DB">
                                                 <rect key="frame" x="161.5" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="theFight"/>
+                                                <connections>
+                                                    <action selector="fightPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7nR-SJ-Ohh"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -57,10 +69,16 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="crH-iD-XLb">
                                                 <rect key="frame" x="0.0" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="snorter"/>
+                                                <connections>
+                                                    <action selector="snorterPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0Ux-vO-qLg"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aOO-ao-7zU">
                                                 <rect key="frame" x="161.5" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="drinksomewater"/>
+                                                <connections>
+                                                    <action selector="drinkWaterPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="n3G-O7-jaM"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -70,10 +88,16 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f4f-GD-zEd">
                                                 <rect key="frame" x="0.0" y="0.0" width="161.5" height="92"/>
                                                 <state key="normal" image="shakeitoff"/>
+                                                <connections>
+                                                    <action selector="shakePressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mp4-Fi-a5B"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PxY-Sh-pAm">
                                                 <rect key="frame" x="161.5" y="0.0" width="161.5" height="92"/>
                                                 <state key="normal" image="ohhwow"/>
+                                                <connections>
+                                                    <action selector="wowPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QZJ-mU-Jbx"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -83,10 +107,16 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mpF-Ny-Yv2">
                                                 <rect key="frame" x="0.0" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="fizz"/>
+                                                <connections>
+                                                    <action selector="fizzPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="plE-uk-6Ha"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J9I-ar-i6N">
                                                 <rect key="frame" x="161.5" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="fazz"/>
+                                                <connections>
+                                                    <action selector="fazzPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Vpf-6z-yb8"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -96,10 +126,16 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BPH-Cg-2MA">
                                                 <rect key="frame" x="0.0" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="fizz-fazz"/>
+                                                <connections>
+                                                    <action selector="fizzFazzpressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gNl-EH-H7Q"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZqG-RP-yRo">
                                                 <rect key="frame" x="161.5" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="Ripshit"/>
+                                                <connections>
+                                                    <action selector="ripshitPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pdS-lj-v9L"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -109,10 +145,16 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FT9-gA-XOn">
                                                 <rect key="frame" x="0.0" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="tear-ass"/>
+                                                <connections>
+                                                    <action selector="tearassPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wDN-ID-rwV"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Qc-YA-SbD">
                                                 <rect key="frame" x="161.5" y="0.0" width="161.5" height="92.5"/>
                                                 <state key="normal" image="whoosh"/>
+                                                <connections>
+                                                    <action selector="whooshPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uyC-JZ-3Zs"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
