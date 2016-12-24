@@ -146,7 +146,7 @@
 				TargetAttributes = {
 					F447FEAF1E044C7F009AF574 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = CFZ5ELBZA6;
+						DevelopmentTeam = 63EFTM5462;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -323,7 +323,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CFZ5ELBZA6;
+				DEVELOPMENT_TEAM = 63EFTM5462;
 				INFOPLIST_FILE = DadsPresent/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.christinecunniff.DadsPresent;
@@ -336,7 +336,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CFZ5ELBZA6;
+				DEVELOPMENT_TEAM = 63EFTM5462;
 				INFOPLIST_FILE = DadsPresent/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.christinecunniff.DadsPresent;
